@@ -30,13 +30,6 @@ Welcome to my GitHub profile! I'm passionate about **AI**, technology, coding, a
 
 ---
 
-## 📈 GitHub Stats
-![Christian Braga's GitHub stats](https://github-readme-stats.vercel.app/api?username=Christian-Braga&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Christian-Braga&layout=compact&theme=radical)](https://github.com/Christian-Braga)
-
----
-
 ## 📫 How to Reach Me
 - **Email:** braga.ch22@gmail.com
 - **LinkedIn:** [Christian Braga](https://www.linkedin.com/in/christianbraga/)
