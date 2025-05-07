@@ -7,8 +7,7 @@ Welcome to my GitHub profile! I'm passionate about **AI**, technology, coding, a
 ## 🚀 About Me
 - 🌍 Based in **Milan, Italy**
 - 💻 Enthusiastic developer specializing in **Python**
-- 🌱 Currently learning **AI Agents** and **Neural Networks**
-- 🤖 Keen interest in **AI**, particularly **putting AI into production**
+- 🌱 Currently Working in  **Generative AI** and **AI Agents**
 - 🧩 Problem-solver with expertise in:
   - **ML models**
   - **Neural Networks**
