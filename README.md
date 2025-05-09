@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm passionate about **AI**, technology, coding, a
 ---
 
 ## 🚀 About Me
-- 🌍 Based in **Milan, Italy**
+- 🌍 Based in **Brescia, Italy**
 - 💻 Enthusiastic developer specializing in **Python**
 - 🌱 Currently Working in  **Generative AI** and **AI Agents**
 - 🧩 Problem-solver with expertise in:
