@@ -36,7 +36,6 @@ Welcome to my GitHub profile! I'm passionate about **AI**, technology, coding, a
 ---
 
 ### 🎯 Fun Facts
-- 💡 Favorite Quote: *"I haven’t written it yet."*
 - 🎮 Hobbies: Chess, Photography, Running
 - 🌟 Always looking for ways to make tech more accessible to everyone!
 
