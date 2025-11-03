@@ -23,7 +23,7 @@ Welcome to my GitHub profile! I'm passionate about **AI**, technology, coding, a
 ---
 
 ## 🛠️ Tech Stack
-- **Languages:** Python, R, SQL
+- **Languages:** Python, Javascript, React, HTML, css, R, SQL
 - **Libraries:** LangChain, LangGraph, scikit-learn (sklearn), PyTorch, SmolAgents, LlamaIndex
 - **Tools & Platforms:** Git, GitHub, Docker, PostgreSQL
 
@@ -37,9 +37,3 @@ Welcome to my GitHub profile! I'm passionate about **AI**, technology, coding, a
 
 ### 🎯 Fun Facts
 - 🎮 Hobbies: Chess, Photography, Running
-
----
-
-Feel free to explore my repositories and drop me a message if you'd like to collaborate!
-
-Let's build something amazing together! 🚀
