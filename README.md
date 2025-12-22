@@ -1,13 +1,13 @@
-# Hi there, I'm Christian Braga! 👋
+# Hi, I'm Christian Braga! 👋
 
-Welcome to my GitHub profile! I'm passionate about **AI**, technology, coding, and collaborating on innovative projects. Here's a little bit about me:
+I'm passionate about **AI**, technology, coding, and collaborating on innovative projects. Here's a little bit about me:
 
 ---
 
 ## 🚀 About Me
 - 🌍 Based in **Brescia, Italy**
-- 💻 Enthusiastic developer specializing in **Python**
-- 🌱 Currently Working in  **Generative AI** and **AI Agents**
+- 💻 dev in **Python**, **Javascript**
+- 🌱 Currently Working as **AI Engineer**
 - 🧩 Problem-solver with expertise in:
   - **ML models**
   - **Neural Networks**
@@ -19,6 +19,7 @@ Welcome to my GitHub profile! I'm passionate about **AI**, technology, coding, a
   - **Automated Machine Learning**
   - **Evolutionary Algorithms and Bayesian Optimization**
   - **Hyperparameter optimization**
+  - **Software Development**
 
 ---
 
